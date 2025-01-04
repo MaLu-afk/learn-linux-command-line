@@ -1,1 +1,1 @@
-# Conociendo los comandos 'ls', 'pwd' y 'cd'
+# Conociendo los comandos $ls$, 'pwd' y 'cd'
