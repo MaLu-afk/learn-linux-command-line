@@ -1,1 +1,1 @@
-# Conociendo los comandos `pwd`, `ls` y `cd`
+# Conociendo los comandos `pwd` (print working directory), `ls` y `cd`
